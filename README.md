@@ -1,4 +1,4 @@
-# PSNE ,Dominant Strategies
+# PSNE, Dominant Strategies
 Run
 
  - python3 13.py
